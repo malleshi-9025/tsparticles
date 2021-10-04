@@ -12,7 +12,12 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 [![tsParticles Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186113&theme=light)](https://www.producthunt.com/posts/tsparticles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tsparticles")
 
 ---
+#Creating particals 
+It is possible to create all fundamental particles in the standard model,
+including quarks, leptons and bosons using photons of varying energies above some minimum threshold, 
+whether directly (by pair production), or by decay of the intermediate particle (such as a W− boson decaying to form an electron and an electron-
 ## Table of Contents
+
 
 * [Use for your website](##-Do-you-want-to-use-it-on-your-website?)
   * [Library installation](#Library-installation)
